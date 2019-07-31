@@ -12,7 +12,6 @@ const IndexPage = () => {
 
                 <h1>Hello.</h1>
                 <h2>I'm Pavlo, a full-stack developer living in beautiful Ukraine.</h2>
-                <p>Need a developer? <Link to="/contact">Contact me.</Link></p>
 
             </Layout>
         </div>
